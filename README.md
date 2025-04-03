@@ -1,6 +1,6 @@
  Hi, I’m @sunandasinghh
  I’m interested in cybersecurity
- I’m currently learning python and various cybersecurity tools
+ I’m currently learning various cybersecurity tools
 
 <!---
 sunandasinghh/sunandasinghh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
